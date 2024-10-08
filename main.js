@@ -1,6 +1,6 @@
 let personagem = {
-    vida: 100,
-    força: 10,
+    vida: 20,
+    força: 5,
     recursos: ['Poção de Cura']
 };
 
